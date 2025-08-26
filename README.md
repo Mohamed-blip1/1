@@ -1,4 +1,4 @@
-# Icebox-Inventory-App
+# Social-Network-Mini-App
 
 
 
