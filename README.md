@@ -1,5 +1,4 @@
-# Social-Network-Mini-App
-
+# Litel-Library
 
 
 ## Project notes
